@@ -11,8 +11,8 @@
     <groupId>com.example.projectweb1</groupId>
     <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>projectweb1</name>
-    <description>Demo project for Spring Boot</description>
+    <name>projectweb2</name>
+    <description>Demo project for Spring Boot (WAR)</description>
     <packaging>war</packaging>
 
     <properties>
